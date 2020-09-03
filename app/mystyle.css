@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+	/*  background-image: url("https://farm6.staticflickr.com/5695/22447126166_2db1545ed4_b.jpg");*/
+  background-size: inherit;
+  background-position: center;
+/*  background-color: orange;
+*/
+}
+header{
+	width: 100%;
+	height: 80px;
+	background-color: #cc6533;
+	display: inline-block;
+}
+
+header a:hover{
+	color: orange;
+}
+h1{
+	margin-top: 30px;
+	text-align: center;
+	color:white
+}
